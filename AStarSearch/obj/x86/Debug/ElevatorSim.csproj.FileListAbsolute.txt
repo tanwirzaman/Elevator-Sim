@@ -1,0 +1,9 @@
+E:\Elevator\AStarSearch\bin\Debug\AStarSearch.exe.config
+E:\Elevator\AStarSearch\obj\x86\Debug\AStarSearch.exe
+E:\Elevator\AStarSearch\obj\x86\Debug\AStarSearch.pdb
+E:\Elevator\AStarSearch\obj\x86\Debug\ElevatorSim.csproj.GenerateResource.Cache
+E:\Elevator\AStarSearch\obj\x86\Debug\ElevatorSim.ElevatorSimForm.resources
+E:\Elevator\AStarSearch\obj\x86\Debug\ElevatorSim.Properties.Resources.resources
+E:\Elevator\AStarSearch\bin\Debug\AStarSearch.exe
+E:\Elevator\AStarSearch\bin\Debug\AStarSearch.pdb
+E:\Elevator\AStarSearch\obj\x86\Debug\ElevatorSim.csprojResolveAssemblyReference.cache
